@@ -1,133 +1,133 @@
-E1 <*> <*> <*>
-E2 <*> <*> <*> <*>
-E3 <*> <*> EDRAM error(s) (dcr <*> detected and corrected
-E4 <*> <*> EDRAM error(s) (dcr <*> detected and corrected over <*> seconds
-E5 <*> ddr error(s) detected and corrected on rank <*> symbol <*> over <*> seconds
-E6 <*> ddr errors(s) detected and corrected on rank <*> symbol <*> bit <*>
-E7 <*> double-hummer alignment exceptions
-E8 <*> ffffffff ffffffff ffffffff
-E9 <*> floating point alignment exceptions
-E10 <*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.
-E11 <*> torus receiver x+ input pipe error(s) (dcr <*> detected and corrected
-E12 <*> torus receiver y+ input pipe error(s) (dcr <*> detected and corrected
-E13 <*> torus receiver z+ input pipe error(s) (dcr <*> detected and corrected
-E14 <*> torus sender z- retransmission error(s) (dcr <*> detected and corrected over <*> seconds
-E15 <*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt.
-E16 <*> tree receiver <*> in re-synch state event(s) (dcr <*> detected
-E17 <*> tree receiver <*> in re-synch state event(s) (dcr <*> detected over <*> seconds
-E18 CE sym <*> at <*> mask <*>
-E19 Can not get assembly information for node card
-E20 Error receiving packet on tree network, expecting type <*> instead of type <*> <*> <*> <*> <*> <*> <*> <*> <*>
-E21 Ido chip status changed: <*> <*> <*> <*> status=M Fri Jul <*> <*> PDT <*>
-E22 Ido chip status changed: <*> <*> <*> <*> status=M Sat Sep <*> <*> PDT <*>
-E23 Ido chip status changed: <*> <*> <*> <*> status=M Thu Aug <*> <*> PDT <*>
-E24 Ido chip status changed: <*> <*> <*> <*> status=M Tue Aug <*> <*> PDT <*>
-E25 Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*>
-E26 Lustre mount FAILED : <*> : block_id : location
-E27 Lustre mount FAILED : <*> : point <*>
-E28 MACHINE CHECK DCR read timeout <*> iar <*> lr <*>
-E29 Machine State Register: <*>
-E30 NFS Mount failed on <*> slept <*> seconds, retrying <*>
-E31 New ido chip inserted into the database: <*> <*> <*> <*>
-E32 Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>
-E33 Node card is not fully functional
-E34 Node card status: ALERT <*> ALERT <*> ALERT <*> ALERT <*> is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The <*> volt rail is OK. The <*> volt rail is OK.
-E35 Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*> volt rail is OK. The <*> volt rail is OK.
-E36 NodeCard is not fully functional
-E37 PrepareForService shutting down <*> <*> <*> <*> <*> as part of Service Action <*>
-E38 PrepareForService shutting down Node <*> <*> <*> <*> <*> as part of Service Action <*>
-E39 auxiliary <*>
-E40 byte ordering <*>
-E41 ciod: Error creating node map from file <*> Bad file descriptor
-E42 ciod: Error creating node map from file <*> Block device required
-E43 ciod: Error creating node map from file <*> No child processes
-E44 ciod: Error creating node map from file <*> Permission denied
-E45 ciod: Error loading ./runtime_malloc: invalid or missing program image, No such file or directory
-E46 ciod: Error loading /bgl/apps/SWL/performance/MINIBEN//bandwidth.rts: invalid or missing program image, No such file or directory
-E47 ciod: Error loading /bgl/apps/SWL/performance/MINIBEN//torus-latency.rts: invalid or missing program image, No such file or directory
-E48 ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error
-E49 ciod: Error loading /home/draeger/testQboxhang-nozerobytebug-nosleepyescomm: invalid or missing program image, No such file or directory
-E50 ciod: Error loading /home/yates//bandwidth.rts: invalid or missing program image, No such file or directory
-E51 ciod: Error loading /home/yates//broadcast.rts: invalid or missing program image, No such file or directory
-E52 ciod: Error loading /home/yates//torus-latency.rts: invalid or missing program image, No such file or directory
-E53 ciod: Error loading <*> invalid or missing program image, Exec format error
-E54 ciod: Error loading <*> invalid or missing program image, No such file or directory
-E55 ciod: Error loading <*> invalid or missing program image, Permission denied
-E56 ciod: Error loading <*> program image too big, <*> > <*>
-E57 ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed
-E58 ciod: Error reading message prefix on CioStream socket to <*> Connection reset by peer
-E59 ciod: Error reading message prefix on CioStream socket to <*> Connection timed out
-E60 ciod: Error reading message prefix on CioStream socket to <*> Link has been severed
-E61 ciod: In packet from node <*> <*> message code <*> is not <*> or <*> <*> <*> <*> <*>
-E62 ciod: LOGIN <*> failed: Input/output error
-E63 ciod: LOGIN <*> failed: No such file or directory
-E64 ciod: LOGIN chdir(/bglscratch/bwallen/SWL/SYS-CALLS/testcases/kernel/syscalls/truncate) failed: No such file or directory
-E65 ciod: LOGIN chdir(pwd) failed: No such file or directory
-E66 ciod: Message code <*> is not <*> or <*>
-E67 ciod: Missing or invalid fields on line <*> of node map file <*>
-E68 ciod: Received signal <*> <*> <*> <*>
-E69 ciod: Z coordinate <*> exceeds physical dimension <*> at line <*> of node map file <*>
-E70 ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>
-E71 ciod: duplicate canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file <*>
-E72 ciod: failed to read message prefix on control stream (CioStream socket to <*>
-E73 ciod: generated <*> core files for program /bgl/apps/SWL/stability/DDCMD//ddcMDbglV
-E74 ciod: generated <*> core files for program /bgl/apps/followup/SPaSM_static/SPaSM_mpi.new_comp
-E75 ciod: generated <*> core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm
-E76 ciod: generated <*> core files for program <*>
-E77 ciod: pollControlDescriptors: Detected the debugger died.
-E78 core configuration register: <*>
-E79 critical input interrupt <*>
-E80 critical input interrupt <*> <*> warning for torus y+ wire
-E81 critical input interrupt <*> <*> warning for torus z+ wire, suppressing further interrupts of same type
-E82 critical input interrupt <*> <*> warning for torus z- wire
-E83 critical input interrupt <*> <*> warning for tree <*> wire, suppressing further interrupts of same type
-E84 data TLB error interrupt
-E85 data address <*>
-E86 data address: <*>
-E87 data cache search parity error detected. attempting to correct
-E88 data storage interrupt
-E89 data store interrupt caused by <*>
-E90 debug interrupt <*>
-E91 debug wait <*>
-E92 disable store <*>
-E93 exception syndrome register: <*>
-E94 floating point instr. <*>
-E95 floating pt ex mode <*> <*>
-E96 force load/store <*>
-E97 fraction <*>
-E98 generating <*>
-E99 guaranteed data cache block <*>
-E100 guaranteed instruction cache block <*>
-E101 iar <*> dear <*>
-E102 icache prefetch <*>
-E103 idoproxydb hit ASSERT condition: ASSERT <*> Source file=idotransportmgr.cpp Source <*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
-E104 instruction address <*>
-E105 instruction address: <*>
-E106 instruction cache parity error corrected
-E107 machine check <*>
-E108 machine check: <*>
-E109 machine state register: <*>
-E110 minus normalized <*>
-E111 problem state <*>
-E112 program interrupt
-E113 program interrupt: fp cr <*>
-E114 program interrupt: fp cr field <*>
-E115 program interrupt: illegal <*>
-E116 program interrupt: imprecise <*>
-E117 program interrupt: privileged <*>
-E118 program interrupt: trap <*>
-E119 program interrupt: unimplemented <*>
-E120 rts internal error
-E121 rts panic! - stopping execution
-E122 rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-
-E123 rts: bad message header: expecting type <*> instead of type <*> <*> <*> <*> <*> <*> <*> <*> <*>
-E124 rts: kernel terminated for reason <*>
-E125 rts: kernel terminated for reason <*> bad message header: invalid cpu, <*> <*> <*> <*>
-E126 shutdown complete
-E127 size of scratchpad portion of <*> <*>
-E128 special purpose registers:
-E129 store <*>
-E130 suppressing further interrupts of same type
-E131 total of <*> ddr error(s) detected and corrected
-E132 total of <*> ddr error(s) detected and corrected over <*> seconds
-E133 wait state <*>
+E0 <*> <*> <*>
+E1 <*> <*> <*> <*>
+E2 <*> <*> EDRAM error(s) (dcr <*> detected and corrected
+E3 <*> <*> EDRAM error(s) (dcr <*> detected and corrected over <*> seconds
+E4 <*> ddr error(s) detected and corrected on rank <*> symbol <*> over <*> seconds
+E5 <*> ddr errors(s) detected and corrected on rank <*> symbol <*> bit <*>
+E6 <*> double-hummer alignment exceptions
+E7 <*> ffffffff ffffffff ffffffff
+E8 <*> floating point alignment exceptions
+E9 <*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.
+E10 <*> torus receiver x+ input pipe error(s) (dcr <*> detected and corrected
+E11 <*> torus receiver y+ input pipe error(s) (dcr <*> detected and corrected
+E12 <*> torus receiver z+ input pipe error(s) (dcr <*> detected and corrected
+E13 <*> torus sender z- retransmission error(s) (dcr <*> detected and corrected over <*> seconds
+E14 <*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt.
+E15 <*> tree receiver <*> in re-synch state event(s) (dcr <*> detected
+E16 <*> tree receiver <*> in re-synch state event(s) (dcr <*> detected over <*> seconds
+E17 CE sym <*> at <*> mask <*>
+E18 Can not get assembly information for node card
+E19 Error receiving packet on tree network, expecting type <*> instead of type <*> <*> <*> <*> <*> <*> <*> <*> <*>
+E20 Ido chip status changed: <*> <*> <*> <*> status=M Fri Jul <*> <*> PDT <*>
+E21 Ido chip status changed: <*> <*> <*> <*> status=M Sat Sep <*> <*> PDT <*>
+E22 Ido chip status changed: <*> <*> <*> <*> status=M Thu Aug <*> <*> PDT <*>
+E23 Ido chip status changed: <*> <*> <*> <*> status=M Tue Aug <*> <*> PDT <*>
+E24 Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*> <*> iar <*> dear <*>
+E25 Lustre mount FAILED : <*> : block_id : location
+E26 Lustre mount FAILED : <*> : point <*>
+E27 MACHINE CHECK DCR read timeout <*> iar <*> lr <*>
+E28 Machine State Register: <*>
+E29 NFS Mount failed on <*> slept <*> seconds, retrying <*>
+E30 New ido chip inserted into the database: <*> <*> <*> <*>
+E31 Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>
+E32 Node card is not fully functional
+E33 Node card status: ALERT <*> ALERT <*> ALERT <*> ALERT <*> is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The <*> volt rail is OK. The <*> volt rail is OK.
+E34 Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*> volt rail is OK. The <*> volt rail is OK.
+E35 NodeCard is not fully functional
+E36 PrepareForService shutting down <*> <*> <*> <*> <*> as part of Service Action <*>
+E37 PrepareForService shutting down Node <*> <*> <*> <*> <*> as part of Service Action <*>
+E38 auxiliary <*>
+E39 byte ordering <*>
+E40 ciod: Error creating node map from file <*> Bad file descriptor
+E41 ciod: Error creating node map from file <*> Block device required
+E42 ciod: Error creating node map from file <*> No child processes
+E43 ciod: Error creating node map from file <*> Permission denied
+E44 ciod: Error loading ./runtime_malloc: invalid or missing program image, No such file or directory
+E45 ciod: Error loading /bgl/apps/SWL/performance/MINIBEN//bandwidth.rts: invalid or missing program image, No such file or directory
+E46 ciod: Error loading /bgl/apps/SWL/performance/MINIBEN//torus-latency.rts: invalid or missing program image, No such file or directory
+E47 ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error
+E48 ciod: Error loading /home/draeger/testQboxhang-nozerobytebug-nosleepyescomm: invalid or missing program image, No such file or directory
+E49 ciod: Error loading /home/yates//bandwidth.rts: invalid or missing program image, No such file or directory
+E50 ciod: Error loading /home/yates//broadcast.rts: invalid or missing program image, No such file or directory
+E51 ciod: Error loading /home/yates//torus-latency.rts: invalid or missing program image, No such file or directory
+E52 ciod: Error loading <*> invalid or missing program image, Exec format error
+E53 ciod: Error loading <*> invalid or missing program image, No such file or directory
+E54 ciod: Error loading <*> invalid or missing program image, Permission denied
+E55 ciod: Error loading <*> program image too big, <*> > <*>
+E56 ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed
+E57 ciod: Error reading message prefix on CioStream socket to <*> Connection reset by peer
+E58 ciod: Error reading message prefix on CioStream socket to <*> Connection timed out
+E59 ciod: Error reading message prefix on CioStream socket to <*> Link has been severed
+E60 ciod: In packet from node <*> <*> message code <*> is not <*> or <*> <*> <*> <*> <*>
+E61 ciod: LOGIN <*> failed: Input/output error
+E62 ciod: LOGIN <*> failed: No such file or directory
+E63 ciod: LOGIN chdir(/bglscratch/bwallen/SWL/SYS-CALLS/testcases/kernel/syscalls/truncate) failed: No such file or directory
+E64 ciod: LOGIN chdir(pwd) failed: No such file or directory
+E65 ciod: Message code <*> is not <*> or <*>
+E66 ciod: Missing or invalid fields on line <*> of node map file <*>
+E67 ciod: Received signal <*> <*> <*> <*>
+E68 ciod: Z coordinate <*> exceeds physical dimension <*> at line <*> of node map file <*>
+E69 ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>
+E70 ciod: duplicate canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file <*>
+E71 ciod: failed to read message prefix on control stream (CioStream socket to <*>
+E72 ciod: generated <*> core files for program /bgl/apps/SWL/stability/DDCMD//ddcMDbglV
+E73 ciod: generated <*> core files for program /bgl/apps/followup/SPaSM_static/SPaSM_mpi.new_comp
+E74 ciod: generated <*> core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm
+E75 ciod: generated <*> core files for program <*>
+E76 ciod: pollControlDescriptors: Detected the debugger died.
+E77 core configuration register: <*>
+E78 critical input interrupt <*>
+E79 critical input interrupt <*> <*> warning for torus y+ wire
+E80 critical input interrupt <*> <*> warning for torus z+ wire, suppressing further interrupts of same type
+E81 critical input interrupt <*> <*> warning for torus z- wire
+E82 critical input interrupt <*> <*> warning for tree <*> wire, suppressing further interrupts of same type
+E83 data TLB error interrupt
+E84 data address <*>
+E85 data address: <*>
+E86 data cache search parity error detected. attempting to correct
+E87 data storage interrupt
+E88 data store interrupt caused by <*>
+E89 debug interrupt <*>
+E90 debug wait <*>
+E91 disable store <*>
+E92 exception syndrome register: <*>
+E93 floating point instr. <*>
+E94 floating pt ex mode <*> <*>
+E95 force load/store <*>
+E96 fraction <*>
+E97 generating <*>
+E98 guaranteed data cache block <*>
+E99 guaranteed instruction cache block <*>
+E100 iar <*> dear <*>
+E101 icache prefetch <*>
+E102 idoproxydb hit ASSERT condition: ASSERT <*> Source file=idotransportmgr.cpp Source <*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+E103 instruction address <*>
+E104 instruction address: <*>
+E105 instruction cache parity error corrected
+E106 machine check <*>
+E107 machine check: <*>
+E108 machine state register: <*>
+E109 minus normalized <*>
+E110 problem state <*>
+E111 program interrupt
+E112 program interrupt: fp cr <*>
+E113 program interrupt: fp cr field <*>
+E114 program interrupt: illegal <*>
+E115 program interrupt: imprecise <*>
+E116 program interrupt: privileged <*>
+E117 program interrupt: trap <*>
+E118 program interrupt: unimplemented <*>
+E119 rts internal error
+E120 rts panic! - stopping execution
+E121 rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-
+E122 rts: bad message header: expecting type <*> instead of type <*> <*> <*> <*> <*> <*> <*> <*> <*>
+E123 rts: kernel terminated for reason <*>
+E124 rts: kernel terminated for reason <*> bad message header: invalid cpu, <*> <*> <*> <*>
+E125 shutdown complete
+E126 size of scratchpad portion of <*> <*>
+E127 special purpose registers:
+E128 store <*>
+E129 suppressing further interrupts of same type
+E130 total of <*> ddr error(s) detected and corrected
+E131 total of <*> ddr error(s) detected and corrected over <*> seconds
+E132 wait state <*>

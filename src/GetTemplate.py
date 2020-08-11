@@ -1,6 +1,6 @@
 def GetTemplate(filename):
     Cluster=[]
-    no=1
+    no=0
     fr=open(filename)
     for line in fr.readlines():
         line=line.strip()

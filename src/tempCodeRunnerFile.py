@@ -1,0 +1,1 @@
+D:\SIT_PROJECT\LogParser_LSTM\pre_data
