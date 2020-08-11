@@ -8,7 +8,7 @@ import GetData
 
 x_train_data,y_train_data=GetData.GetData('D:\SIT_PROJECT\LogParser_LSTM\EventSequence')
 model=keras.Sequential([
-    keras.layers.Dense(128,activation='relu'),
+    keras.layers.Dense(250,activation='relu'),
     keras.layers.Dense(133)
 ])
 model.compile(optimizer='SGD',
